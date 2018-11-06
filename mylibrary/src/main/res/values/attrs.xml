@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoImage">
+        <!-- 宽度比率值 -->
+        <attr name="widthScale" format="integer" />
+        <!-- 长度比率值 -->
+        <attr name="heigthScale" format="integer" />
+    </declare-styleable>
+</resources>
